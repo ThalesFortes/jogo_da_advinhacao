@@ -18,7 +18,7 @@ Blog de gato criad utilizando css, html totalmente responsivel e estilizado com 
 - CSS
 - JavaScript
 
-[Clique aqui para acessar](https://w0lfh.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://thalesfortes.github.io/jogo_da_advinhacao/)
 
 # Autor
 
