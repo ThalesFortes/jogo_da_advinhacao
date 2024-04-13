@@ -16,6 +16,8 @@ Blog de gato criad utilizando css, html totalmente responsivel e estilizado com 
 ## Front end
 - HTML 
 - CSS
+
+## Back end
 - JavaScript
 
 [Clique aqui para acessar](https://thalesfortes.github.io/jogo_da_advinhacao/)
