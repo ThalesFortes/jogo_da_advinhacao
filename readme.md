@@ -1,8 +1,9 @@
-# CatBlog
+# Jogo da advinhação
 
 # Sobre o projeto
 
-Blog de gato criad utilizando css, html totalmente responsivel e estilizado com cabeçalho, conteudo principal e lateral rodapé, imagens com efeitos e opacas além de inserção de elementos de acordo com o tamanho da tela, foi utilizado tudo que venho aprendendo de html e css para a criação deste blog
+Criado um jogo de advinhação o qual é gerado um numero aleatório e ao usuario digitar o número aparece uma mensagem falando que acertou e os numeros de tentativas, caso erre o input zere para continuar tentando.
+Caso digite algum valor que não seja permitido aparece uma mensagem de erro, projeto feito com o intuito de treinar e exercitar práticas comuns em JavaScript, como manipulação do DOM, lidar com eventos, definir funções e manipular variáveis.
 
 ## Layout web
 ![Web 1](https://github.com/ThalesFortes/jogo_da_advinhacao/blob/main/printProject/pc.png)
